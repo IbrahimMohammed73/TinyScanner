@@ -1,0 +1,11 @@
+D:\downloads\compiler_project\compiler_project\bin\Debug\compiler_project.exe.config
+D:\downloads\compiler_project\compiler_project\bin\Debug\compiler_project.exe
+D:\downloads\compiler_project\compiler_project\bin\Debug\compiler_project.pdb
+D:\downloads\compiler_project\compiler_project\obj\Debug\compiler_project.csproj.AssemblyReference.cache
+D:\downloads\compiler_project\compiler_project\obj\Debug\compiler_project.Form1.resources
+D:\downloads\compiler_project\compiler_project\obj\Debug\compiler_project.Properties.Resources.resources
+D:\downloads\compiler_project\compiler_project\obj\Debug\compiler_project.csproj.GenerateResource.cache
+D:\downloads\compiler_project\compiler_project\obj\Debug\compiler_project.csproj.CoreCompileInputs.cache
+D:\downloads\compiler_project\compiler_project\obj\Debug\compiler_project.exe
+D:\downloads\compiler_project\compiler_project\obj\Debug\compiler_project.pdb
+D:\downloads\compiler_project\compiler_project\obj\Debug\compiler_project.exe.config
